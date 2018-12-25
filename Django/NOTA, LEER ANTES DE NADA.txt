@@ -1,0 +1,4 @@
+PARA CREAR ESTE PROEYCTO DE DJANGO, LOPRIEMRO DE TODO ES CREAR LA CARPETA DE ESTE MODO:
+
+- IR AL CMD
+- PONER django-admin starproject nombre_del_proyecto
